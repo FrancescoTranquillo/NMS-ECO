@@ -1,4 +1,4 @@
 # NMS-ECO
-Repository for the NMS economy guide 
+Repository for the NMS economy guide
 
-indexing guide
+indexing guid
